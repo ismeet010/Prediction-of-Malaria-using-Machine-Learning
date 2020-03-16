@@ -1,9 +1,9 @@
 
 
-In our project we don't use any type of databases.
-Instead of db we use excel files in .xlsx format.
+In our project we didn't use any type of databases.
+Instead of db we used excel files in .xlsx format.
 
-In our project the columns present are:
+The columns present in our Excel Sheet data are:
 
 1.Year
 2.District
@@ -12,7 +12,7 @@ In our project the columns present are:
 5.Cummulative
 
 
-In rows there is different years:
+In rows there are some option for year:
 
 1.2012
 2.2013
